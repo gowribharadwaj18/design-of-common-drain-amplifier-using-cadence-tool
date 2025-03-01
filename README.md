@@ -1,1 +1,0 @@
-# design-of-common-drain-amplifier-using-cadence-tool
